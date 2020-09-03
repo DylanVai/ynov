@@ -1,4 +1,6 @@
-Début readme 
+HELLO WORLD 
+
+Entrainement GIT
 
 Je rajoute plusieurs ligne 
 
