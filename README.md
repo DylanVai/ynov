@@ -1,5 +1,5 @@
 Début readme 
-<<<<<<< HEAD
+
 Je rajoute plusieurs ligne 
 
 
